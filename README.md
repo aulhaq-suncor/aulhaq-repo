@@ -1,3 +1,3 @@
-# aulhaq-repo
-Own use
-##this is test mark down file
+# Important Instructions
+
+This is a demo repository for practicing Git & GitHub.
